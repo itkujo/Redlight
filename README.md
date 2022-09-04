@@ -1,3 +1,9 @@
+
+# Currently working on
+I am working on different resolutions for these files. 
+Once done there will be multiple packages in the downloads each with different resolutions.
+
+
 # Redlight
 Log Bot For "ARK: Survival Evolved"  
   
